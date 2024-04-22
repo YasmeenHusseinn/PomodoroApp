@@ -97,13 +97,13 @@ Game screen
   </div>
 
 ## Sprints
-[x] Sprint #1: Outline of app
-[x] Sprint #2: Pomodoro timer
-[x] Sprint #2: Home Screen
-[x] Sprint #3: Resources Screen
-    [x] Sprint #4: Calculator Screen
-    [] Sprint #5: Word Search
-[] Sprint #4: Game screen
+- [x] Sprint #1: Outline of app
+- [x] Sprint #2: Pomodoro timer
+- [x] Sprint #2: Home Screen
+- [x] Sprint #3: Resources Screen
+- [x] Sprint #4: Calculator Screen
+- [] Sprint #5: Word Search
+- [] Sprint #4: Game screen
     
 
 ### [BONUS] Digital Wireframes & Mockups
