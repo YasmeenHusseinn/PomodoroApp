@@ -87,12 +87,24 @@ Game screen
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b191db6935394eab849ad8255269b69a-00001.jpg">
     </a>
   </div>
+  
+  <div>
+    <a href="https://www.loom.com/share/b7ba0f5ac7c1433bb4411e46623c0a4f">
+    </a>
+    <a href="https://www.loom.com/share/b7ba0f5ac7c1433bb4411e46623c0a4f">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b7ba0f5ac7c1433bb4411e46623c0a4f-with-play.gif">
+    </a>
+  </div>
 
 ## Sprints
-* Sprint #1: Outline of app
-* Sprint #2: Home Screen
-* Sprint #3: Resources Screen
-* Sprint #4: Game screen
+[x] Sprint #1: Outline of app
+[x] Sprint #2: Pomodoro timer
+[x] Sprint #2: Home Screen
+[x] Sprint #3: Resources Screen
+    [x] Sprint #4: Calculator Screen
+    [] Sprint #5: Word Search
+[] Sprint #4: Game screen
+    
 
 ### [BONUS] Digital Wireframes & Mockups
 
