@@ -96,7 +96,7 @@ Game screen
     </a>
   </div>
 
-## Sprints
+## Sprints / Features Implemented
 - [x] Sprint #1: Outline of app
 - [x] Sprint #2: Pomodoro timer
 - [x] Sprint #2: Home Screen
