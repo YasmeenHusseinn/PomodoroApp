@@ -56,7 +56,7 @@ Calculator/Word Search screen
 * Users can search for words
 
 Game screen
-* Users can play mini-games like tik-tak-toe
+* Users can play mini-games like tik-tac-toe
 
 ### 3. Navigation
 
@@ -95,6 +95,14 @@ Game screen
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b7ba0f5ac7c1433bb4411e46623c0a4f-with-play.gif">
     </a>
   </div>
+  
+  <div>
+    <a href="https://www.loom.com/share/871d34aa8973401da3340c752fd3f8e0">
+    </a>
+    <a href="https://www.loom.com/share/871d34aa8973401da3340c752fd3f8e0">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/871d34aa8973401da3340c752fd3f8e0-with-play.gif">
+    </a>
+  </div>
 
 ## Sprints / Features Implemented
 - [x] Sprint #1: Outline of app
@@ -102,8 +110,8 @@ Game screen
 - [x] Sprint #2: Home Screen
 - [x] Sprint #3: Resources Screen
 - [x] Sprint #4: Calculator Screen
-- [] Sprint #5: Word Search
-- [] Sprint #4: Game screen
+- [x] Sprint #5: Word Search
+- [x] Sprint #4: Game screen
     
 
 ### [BONUS] Digital Wireframes & Mockups
