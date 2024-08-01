@@ -57,10 +57,6 @@ Game screen
 - [ ] Game screen
     -> tic-tac-toe
 
-## Wireframes
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-![IMG_0412 3](https://hackmd.io/_uploads/r1kifRTxC.jpg)
-
 ## Video Demo
   <div>
     <a href="https://www.loom.com/share/871d34aa8973401da3340c752fd3f8e0">
